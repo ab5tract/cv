@@ -7,7 +7,9 @@ title: John Haltiwanger's CV
 Senior Software Engineer
 
 <div id="webaddress">
-📧 [john.haltiwanger@gmail.com](mailto:john.haltiwanger@gmail.com) | 🧑‍💻 [GitHub: ab5tract](https://github.com/ab5tract) | 🌐 [Blog: 5ab5traction5](https://5ab5traction5.bearblog.dev/)
+📧 <a href="mailto:john.haltiwanger@gmail.com">Email: john.haltiwanger@gmail.com</a>
+💻 <a href="https://github.com/ab5tract">GitHub: ab5tract</a>
+🌐 <a href="https://5ab5traction5.bearblog.dev">Blog: 5ab5traction5</a>
 </div>
 
 ---
@@ -87,14 +89,14 @@ Senior software engineer with 25 years of experience building scalable systems a
 
 ### Software Engineer | Incyte
 
-*2003 | 2005*
+*2003* *2005*
 
 - **Implemented** a constraint-based molecule generator using SVL (Scientific Vector Language) in the Molecular Operating Environment.
 - **Corrected** a bug in the carbon ring counting algorithm in the Molecular Operating Environment. The revised code was later adopted into that product.
 
 ### Software Engineer | GlaxoSmithKline
 
-*1999 | 2000 | 2001 | 2002*
+*1999* *2000* *2001* *2002*
 
 - **Developed** customized team software solutions across a wide variety of platforms and requirements.
 - **Improved** the performance of an automated chemical mixing platform from hours to minutes per run.
