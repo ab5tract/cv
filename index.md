@@ -6,7 +6,9 @@ title: John Haltiwanger's CV
 # John Haltiwanger
 Senior Software Engineer
 
+<div id="webaddress">
 📧 [john.haltiwanger@gmail.com](mailto:john.haltiwanger@gmail.com) | 🧑‍💻 [GitHub: ab5tract](https://github.com/ab5tract) | 🌐 [Blog: 5ab5traction5](https://5ab5traction5.bearblog.dev/)
+</div>
 
 ---
 
