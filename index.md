@@ -89,14 +89,14 @@ Senior software engineer with 25 years of experience building scalable systems a
 
 ### Software Engineer | Incyte
 
-*2003* *2005*
+*2003*, *2005*
 
 - **Implemented** a constraint-based molecule generator using SVL (Scientific Vector Language) in the Molecular Operating Environment.
 - **Corrected** a bug in the carbon ring counting algorithm in the Molecular Operating Environment. The revised code was later adopted into that product.
 
 ### Software Engineer | GlaxoSmithKline
 
-*1999* *2000* *2001* *2002*
+*1999*, *2000*, *2001*, *2002*
 
 - **Developed** customized team software solutions across a wide variety of platforms and requirements.
 - **Improved** the performance of an automated chemical mixing platform from hours to minutes per run.
